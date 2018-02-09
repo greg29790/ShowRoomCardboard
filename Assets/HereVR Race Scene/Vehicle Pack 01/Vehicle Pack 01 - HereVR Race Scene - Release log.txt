@@ -1,0 +1,36 @@
+Release log
+
+1.01 
+
+- Original version
+
+1.02 
+
+- Ambulance Car added as a new 'Environment Vehicle'
+
+- Racecars now have separated rear wheels
+
+- Small enhancements/fixes (textures)
+
+1.03
+
+- All vehicles has been rotated to make usage more simple with Car Control packages without custom coordinate system alignment
+- All vehicles have separate wheels from now, even the 'Environment Vehicles' (although those were designated for static usage)
+- Collision mesh added for the body of the race car
+
+1.04
+
+- LAYERED, EDITABLE SOURCE files (PSD) has been added for main textures of the racecars and trucks (you can customize the textures/colors/logos)
+- Small fixes of the textures
+- New prefab added for the truck with a separate trailer setup
+- Directory structure has been uniformized
+
+1. 07 
+
+- UNITY 5 PBR TEST version shaders and textures
+- Added: new tyres for the trucks (Hi-Mid-Lo + Ultra low meshes) 
+
+1. 08
+
+- Bugfixes (shader/texture mismatches)
+- Added separate hands/legs model for mimicing steering for FPS view camera
